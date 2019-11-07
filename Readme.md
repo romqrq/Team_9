@@ -8,7 +8,7 @@
 - [Gareth](https://github.com/GarethS3)
 - Lousanne
 - Nemanja
-- Romulo
+- [Romulo](https://github.com/romqrq)
 
 **Judge**
 
