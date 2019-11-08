@@ -99,6 +99,17 @@ section {
     text-align: center;
 }
 
+.accordion>.card .card-header {
+    background-color: #fe9e59;
+    color: Black;
+    border: none;
+    font-size: 1.2rem;
+}
+
+.card-body {
+    color: black;
+}
+
 @media (min-width: 768px) {
     #logo-text {
         font-size: 1.5rem;
