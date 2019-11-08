@@ -15,7 +15,32 @@ border-radius: 0.5rem;
 */
 
 /*Navbar styles*/
-
+body{
+ text-align: center;
+}
+h4{
+    margin: 2rem;
+}
+iframe {
+    width: 60vw;
+    height: 40vh;
+    margin: 2rem auto;
+}
+.general-button {
+    background-color: #f8842a;
+    border-radius: 0.5rem;
+}
+section {
+    padding: 3rem 1rem;
+}
+.general-text {
+    margin: auto;
+    padding 2rem 1rem;
+}
+.sec-even {
+    background-color: #5b7c8e;
+    color: white;
+}
 .navbar {
     background-color: #124666;
     -webkit-box-shadow: 0 5px 8px #888888;
@@ -57,8 +82,21 @@ border-radius: 0.5rem;
     
 }
 
+.section-header {
+    font-family: "Permanent Marker";
+    margin: 2rem;
+}
+
+.general-text {
+    font-family: "Roboto";
+}
+
 #pumpkin > img {
     max-width: 50%;
+}
+
+.the-game-video {
+    text-align: center;
 }
 
 @media (min-width: 768px) {
