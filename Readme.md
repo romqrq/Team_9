@@ -1,5 +1,11 @@
 
+<<<<<<< HEAD
 # Project Title
+=======
+<<<<<<< HEAD
+=======
+## Team
+>>>>>>> bb2a674b55a6ca6b7816011a63f9a8b9512d003f
 
 One Paragraph of project description goes here
 
@@ -25,6 +31,7 @@ One Paragraph of project description goes here
 **Judge**
 
 - Tim
+<<<<<<< HEAD
 
 
 ## Acknowledgments
@@ -32,3 +39,6 @@ One Paragraph of project description goes here
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+=======
+>>>>>>> upstream/master
+>>>>>>> bb2a674b55a6ca6b7816011a63f9a8b9512d003f
