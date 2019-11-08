@@ -43,6 +43,24 @@ border-radius: 0.5rem;
     color: #fe9e59;
 }
 
+/*Home styles*/
+
+#home {
+    padding-top: 20vh;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#pumpkin {
+    width: 50%;
+    
+}
+
+#pumpkin > img {
+    max-width: 50%;
+}
+
 @media (min-width: 768px) {
     #logo-text {
         font-size: 1.5rem;
