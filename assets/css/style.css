@@ -103,6 +103,14 @@ section {
     height: 100vh;
     text-align: center;
     font-family: 'Permanent Marker', cursive;
+    background-image: url(../images/house.jpg);
+    background-size: cover;
+    color: #124666;
+}
+
+#home-container {
+    background-color: rgba(255, 255, 255, .5)
+
 }
 
 #pumpkin {
