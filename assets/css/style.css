@@ -97,6 +97,7 @@ section {
 
 .the-game-video {
     text-align: center;
+    margin: auto;
 }
 
 .accordion>.card .card-header {
