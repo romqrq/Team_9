@@ -13,3 +13,61 @@ Orange #f8842a
 border-radius: 0.5rem;
 
 */
+
+/*Navbar styles*/
+
+.navbar {
+    background-color: #124666;
+    -webkit-box-shadow: 0 5px 8px #888888;
+    box-shadow: 0 5px 8px #888888;
+    font-weight: 900;
+    
+    
+}
+.navbar-brand {
+    width: 7vw;
+}
+
+#hamburgerMenu {
+    padding-left: 35vw;
+    font-size: 1.25rem;
+}
+
+#logo-text {
+    font-family: 'Frijole', cursive;
+    font-size: .8rem;
+    color: #fe9e59;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fe9e59;
+}
+
+/*Home styles*/
+
+#home {
+    padding-top: 20vh;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#pumpkin {
+    width: 50%;
+    
+}
+
+#pumpkin > img {
+    max-width: 50%;
+}
+
+@media (min-width: 768px) {
+    #logo-text {
+        font-size: 1.5rem;
+    }
+
+    #hamburgerMenu {
+        font-size: 1.75rem;
+    }
+    
+}
